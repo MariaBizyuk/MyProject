@@ -1,0 +1,11 @@
+commit 6c2e6647cc158dcc4e796950cc05c86dc95e3f2f
+Author: MariaBizyuk <bizyuk.maria@gmail.com>
+Date:   Mon Feb 15 12:16:42 2021 +0300
+
+    add status.txt
+
+commit 6087902645a2f238e478e80bd39e9875743cb214
+Author: MariaBizyuk <bizyuk.maria@gmail.com>
+Date:   Mon Feb 15 12:14:21 2021 +0300
+
+    add .gitignore
